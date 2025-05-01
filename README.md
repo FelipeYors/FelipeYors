@@ -1,37 +1,37 @@
-# 💻 Felipe Yorrison
+## 👨‍💻 Desenvolvedor Mobile React Native Júnior
 
-**`(Developer/Back End/Java)`**
-<p align="center">
-  <strong>Desenvolvedor Backend Java Júnior</strong><br>
-  Olá, meu nome é Felipe, tenho 29 anos e estou cursando Engenharia de Software pela Estácio,
- Sou Desenvolvedor Java Júnior com foco em back-end, APIs RESTful e boas práticas de código. Tenho conhecimentos sólidos em Java, Spring Boot, 
- JPA/Hibernate e bancos de dados relacionais como PostgreSQL e MySQL. Busco sempre escrever código limpo, reutilizável e com atenção à legibilidade.
+Olá, meu nome é **Felipe**, tenho 29 anos e estou cursando **Engenharia de Software pela Estácio**.  
+Sou **Desenvolvedor Mobile Júnior** com foco em **React Native**, criação de interfaces responsivas e integração com **APIs RESTful**.
 
-Estou em constante aprendizado, aprofundando meus estudos em arquitetura de software, testes automatizados e integração contínua. Participo ativamente de projetos pessoais e desafios práticos para consolidar o que aprendo.
-  Apaixonado por criar soluções limpas, escaláveis e orientadas a boas práticas.
-</p>
+Tenho experiência no desenvolvimento de aplicativos multiplataforma (**Android/iOS**), com ênfase na **experiência do usuário (UX)**, escalabilidade e boas práticas como **Clean Code** e princípios **SOLID**.
 
-<h1>Softawre Enginner</h1>
+---
 
-☕ Java 17
+### 🚀 Em constante evolução
 
-🌱 Spring Boot
+Atualmente, estou aprofundando meus conhecimentos em:
 
-🔗 RESTful APIs
+- Arquitetura de aplicações mobile
+- Testes automatizados com **Jest** e **Testing Library**
+- Gerenciamento de estado com **Context API**, **Redux** e **Zustand**
 
-🧼 Clean Code & SOLID Principles
+Gosto de participar de projetos práticos e desafios técnicos para consolidar meus aprendizados.
 
-## 🚀 Tecnologias & Ferramentas
+---
 
-![Java](https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-brightgreen?style=for-the-badge&logo=spring)
-![REST API](https://img.shields.io/badge/REST-API-red?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+### 🛠️ Tecnologias e Ferramentas
 
+- 📱 **React Native** / **Expo**
+- ⚛️ **React**, **TypeScript**
+- 🔗 **APIs RESTful**
+- 🧼 **Clean Code**, **SOLID**
+- 💾 **Firebase**, **Axios**
+- 🎨 **Figma** (UI/UX)
+- 🧪 **Jest**, **React Native Testing Library**
+- 🔧 **Git**, **ESLint**, **Prettier**
+---
 
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yorrison-figueiredo-060332361/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yorrison-figueiredo-060332361/) 
  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipedev3/)
  --
 #
@@ -39,5 +39,18 @@ Estou em constante aprendizado, aprofundando meus estudos em arquitetura de soft
 ### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeYors&show_icons=true&theme=transparent)<br>
-📧 yorrisongomes@gmail.com
-#
+
+
+### 🌐 Contato
+
+📧 developersoftware479@gmail.com  
+[LinkedIn](https://www.linkedin.com) | [Instagram](https://www.instagram.com)
+
+---
+
+<!-- stats opcionais -->
+<!--
+### 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+-->
