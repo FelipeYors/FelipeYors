@@ -31,6 +31,16 @@ Gosto de participar de projetos práticos e desafios técnicos para consolidar m
 - 🔧 **Git**, **ESLint**, **Prettier**
 ---
 
+![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-blue?style=for-the-badge&logo=Expo)
+![TypeScript](https://img.shields.io/badge/Spring%20Boot-2.7-brightgreen?style=for-the-badge&logo=typeScript)
+![REST API](https://img.shields.io/badge/REST-API-red?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-005C84?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=ci/cd)
+
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yorrison-figueiredo-060332361/) 
  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipedev3/)
  --
