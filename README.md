@@ -44,7 +44,6 @@ Gosto de participar de projetos práticos e desafios técnicos para consolidar m
 ### 🌐 Contato
 
 📧 developersoftware479@gmail.com  
-[LinkedIn](https://www.linkedin.com) | [Instagram](https://www.instagram.com)
 
 ---
 
