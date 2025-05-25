@@ -19,6 +19,50 @@ Atualmente, estou aprofundando meus conhecimentos em:
 
 Sou entusiasta da melhoria contínua e gosto de participar de projetos que me desafiem a otimizar desempenho, reduzir custos e garantir a resiliência da infraestrutura de rede.
 
+Este repositório contém a estrutura e as ferramentas utilizadas para o estudo prático de redes, análise de tráfego, automação de infraestrutura e segurança ofensiva/defensiva.
+
+## 📦 Objetivo
+
+Montar um ambiente de laboratório para praticar habilidades em:
+- Análise de tráfego de rede
+- Varredura e mapeamento de redes
+- Testes de penetração (pentest)
+- Automação de infraestrutura
+- Simulação de redes e ambientes reais
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+### 🔍 Análise de Tráfego e Varredura
+- [Wireshark](https://www.wireshark.org/) – Analisador gráfico de pacotes
+- [tcpdump](https://www.tcpdump.org/) – Sniffer de linha de comando
+- [tshark](https://www.wireshark.org/docs/man-pages/tshark.html) – Versão CLI do Wireshark
+- [Nmap](https://nmap.org/) – Mapeamento de redes e varredura de portas
+
+### 💻 Simulação de Ambientes
+- [VirtualBox](https://www.virtualbox.org/) / [VMware](https://www.vmware.com/) – Máquinas virtuais
+- [GNS3](https://www.gns3.com/) – Emulador de redes avançado
+- [Kali Linux](https://www.kali.org/) – Distribuição Linux especializada em segurança
+
+### 🔐 Testes de Penetração
+- [Metasploit Framework](https://www.metasploit.com/) – Plataforma de exploração
+- [Burp Suite](https://portswigger.net/burp) – Proxy para testes de segurança em aplicações web
+- [OWASP ZAP](https://www.zaproxy.org/) – Alternativa open-source ao Burp Suite
+- [Hydra](https://github.com/vanhauser-thc/thc-hydra) – Ataques de força bruta
+- [John the Ripper](https://www.openwall.com/john/) – Quebra de senhas
+
+### ⚙️ Automação e Infraestrutura
+- [Ansible](https://www.ansible.com/) – Automação de configurações
+- [Terraform](https://www.terraform.io/) – Provisionamento de infraestrutura como código
+
+### 🔥 Segurança de Sistema
+- `iptables` – Firewall e regras de tráfego no Linux
+- `ufw` – Interface amigável para configuração de firewall no Ubuntu
+
+---
+
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -62,19 +106,6 @@ Aplicar meus conhecimentos em **administração de redes** para garantir a **dis
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yorrison-figueiredo-060332361/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipedev3/)
-
-## 🧰 Badges
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![CI/CD](https://img.shields.io/badge/CI/CD-003B73?style=for-the-badge)
-
-
 ---
 
 ## 📊 GitHub Stats
