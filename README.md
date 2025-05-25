@@ -1,9 +1,9 @@
-# 👨‍💻 Desenvolvedor Back-end Java Júnior
+# 👨‍💻 Administrador de Redes
 
 Olá, meu nome é **Felipe**, tenho 29 anos e estou cursando **Engenharia de Software pela Estácio**.  
-Atuo como **Desenvolvedor Back-end Júnior**, com foco em **Java**, desenvolvimento de APIs RESTful e arquitetura de aplicações robustas e escaláveis.
+Atuo como **Administrador de Redes**, com foco em projetar, implementar e manter infraestruturas de rede seguras, estáveis e escaláveis.
 
-Tenho experiência com **Spring Boot**, seguindo boas práticas como **Clean Code**, princípios **SOLID** e desenvolvimento orientado a testes.
+Tenho experiência em **configuração de dispositivos de rede** (switches, roteadores, firewalls) e sigo boas práticas de **documentação** e **monitoramento** para garantir alta disponibilidade.
 
 ---
 
@@ -11,27 +11,52 @@ Tenho experiência com **Spring Boot**, seguindo boas práticas como **Clean Cod
 
 Atualmente, estou aprofundando meus conhecimentos em:
 
-- Arquitetura de microsserviços com **Spring Cloud**
-- Testes automatizados com **JUnit** e **Mockito**
-- Integração com bancos de dados relacionais (**MySQL**, **PostgreSQL**) e não-relacionais (**MongoDB**)
-- Ferramentas de CI/CD e versionamento com **Git**
+- Redes definidas por software (SDN) com **OpenDaylight** e **ONOS**
+- Automação de redes usando **Ansible** e **Python**
+- Monitoramento e observabilidade com **Zabbix**, **Nagios** e **Grafana**
+- Segurança de redes: segmentação, **IDS/IPS** (Snort, Suricata) e políticas de firewall avançadas
+- Virtualização de redes com **VMware NSX** e **Docker Networking**
 
-Sou entusiasta da melhoria contínua e gosto de participar de projetos desafiadores que me permitem aplicar e expandir meu conhecimento em Java e back-end.
+Sou entusiasta da melhoria contínua e gosto de participar de projetos que me desafiem a otimizar desempenho, reduzir custos e garantir a resiliência da infraestrutura de rede.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- ☕ **Java** (8+)
-- 🌱 **Spring Boot**, **Spring Data**, **Spring Security**
-- 🔗 **APIs RESTful**
-- 🧼 **Clean Code**, **SOLID**
-- 💾 **MySQL**, **PostgreSQL**, **MongoDB**
-- 🔐 **JWT**, **OAuth2**
-- 🧪 **JUnit**, **Mockito**
-- ⚙️ **Maven**, **Gradle**
-- 🚀 **Git**, **CI/CD**, **Docker**
-- 📄 **Postman**, **Swagger**
+### 🌐 Protocolos de Rede
+- TCP/IP, OSPF, BGP, VLAN, STP
+
+### 🔧 Dispositivos
+- Cisco (IOS), Juniper (Junos), MikroTik
+
+### 🔐 Segurança
+- Cisco ASA, pfSense, IPsec, VPN SSL/TLS
+
+### 📶 Wireless
+- 802.11a/b/g/n/ac, controladoras **Aruba** e **Ubiquiti**
+
+### ⚙️ Automação
+- Ansible, Python (Paramiko, Netmiko)
+
+### 🖥️ Virtualização
+- VMware vSphere, Hyper-V, Docker, Kubernetes (network plugins)
+
+### 📊 Monitoramento
+- Zabbix, Nagios, Grafana, ELK Stack
+
+### 🔄 Backup e Recuperação
+- Shell Script, RANCID, NetBackup
+
+### 🚀 Versionamento e CI/CD
+- Git, GitLab CI
+
+---
+
+## 🎯 Objetivo
+
+Aplicar meus conhecimentos em **administração de redes** para garantir a **disponibilidade**, **segurança** e **performance** das infraestruturas, contribuindo para o crescimento e a continuidade dos negócios.
+
+---
 
 ---
 
