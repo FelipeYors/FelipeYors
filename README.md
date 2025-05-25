@@ -1,122 +1,98 @@
-# 👨‍💻 Administrador de Redes
+# ☕ Desenvolvedor Java com Olhar de Infraestrutura
 
-Olá, meu nome é **Felipe**, tenho 29 anos e estou cursando **Engenharia de Software pela Estácio**.  
-Atuo como **Administrador de Redes**, com foco em projetar, implementar e manter infraestruturas de rede seguras, estáveis e escaláveis.
-
-Tenho experiência em **configuração de dispositivos de rede** (switches, roteadores, firewalls) e sigo boas práticas de **documentação** e **monitoramento** para garantir alta disponibilidade.
+Olá! Sou o **Felipe**, tenho **29 anos** e atualmente curso **Engenharia de Software pela Estácio**.  
+Sou apaixonado por desenvolvimento backend com **Java** e utilizo minha bagagem como **Administrador de Redes** para criar aplicações mais seguras, performáticas e preparadas para produção.
 
 ---
 
 ## 🚀 Em constante evolução
 
-Atualmente, estou aprofundando meus conhecimentos em:
+Atualmente estou aprofundando meus conhecimentos em:
 
-- Redes definidas por software (SDN) com **OpenDaylight** e **ONOS**
-- Automação de redes usando **Ansible** e **Python**
-- Monitoramento e observabilidade com **Zabbix**, **Nagios** e **Grafana**
-- Segurança de redes: segmentação, **IDS/IPS** (Snort, Suricata) e políticas de firewall avançadas
-- Virtualização de redes com **VMware NSX** e **Docker Networking**
-
-Sou entusiasta da melhoria contínua e gosto de participar de projetos que me desafiem a otimizar desempenho, reduzir custos e garantir a resiliência da infraestrutura de rede.
-
-Este repositório contém a estrutura e as ferramentas utilizadas para o estudo prático de redes, análise de tráfego, automação de infraestrutura e segurança ofensiva/defensiva.
-
-## 📦 Objetivo
-
-Montar um ambiente de laboratório para praticar habilidades em:
-- Análise de tráfego de rede
-- Varredura e mapeamento de redes
-- Testes de penetração (pentest)
-- Automação de infraestrutura
-- Simulação de redes e ambientes reais
+- Desenvolvimento com **Java 17+**, **Spring Boot**, **Spring Security**, **JPA/Hibernate**
+- Boas práticas de **Clean Architecture**, **REST APIs** e **Testes Automatizados**
+- Observabilidade com **Spring Boot Actuator**, **Prometheus** e **Grafana**
+- Implantação com **Docker**, **GitLab CI/CD** e **Ansible**
+- Integração com **PostgreSQL**, **Redis** e mensageria com **RabbitMQ**/**Kafka**
+- Segurança: autenticação JWT, controle de acesso e validação de payloads
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## 📦 Objetivo do Repositório
 
-### 🔍 Análise de Tráfego e Varredura
-- [Wireshark](https://www.wireshark.org/) – Analisador gráfico de pacotes
-- [tcpdump](https://www.tcpdump.org/) – Sniffer de linha de comando
-- [tshark](https://www.wireshark.org/docs/man-pages/tshark.html) – Versão CLI do Wireshark
-- [Nmap](https://nmap.org/) – Mapeamento de redes e varredura de portas
+Este repositório serve como meu laboratório pessoal para projetos com foco em:
 
-### 💻 Simulação de Ambientes
-- [VirtualBox](https://www.virtualbox.org/) / [VMware](https://www.vmware.com/) – Máquinas virtuais
-- [GNS3](https://www.gns3.com/) – Emulador de redes avançado
-- [Kali Linux](https://www.kali.org/) – Distribuição Linux especializada em segurança
+- **Desenvolvimento backend em Java**
+- **Criação e consumo de APIs REST**
+- **Observabilidade e performance**
+- **Testes e automação com CI/CD**
+- **Ambientes dockerizados para estudo**
+- Explorar a intersecção entre **código e infraestrutura**
 
-### 🔐 Testes de Penetração
-- [Metasploit Framework](https://www.metasploit.com/) – Plataforma de exploração
-- [Burp Suite](https://portswigger.net/burp) – Proxy para testes de segurança em aplicações web
-- [OWASP ZAP](https://www.zaproxy.org/) – Alternativa open-source ao Burp Suite
-- [Hydra](https://github.com/vanhauser-thc/thc-hydra) – Ataques de força bruta
-- [John the Ripper](https://www.openwall.com/john/) – Quebra de senhas
+---
 
-### ⚙️ Automação e Infraestrutura
-- [Ansible](https://www.ansible.com/) – Automação de configurações
-- [Terraform](https://www.terraform.io/) – Provisionamento de infraestrutura como código
+## 🧰 Tecnologias que utilizo com frequência
 
-### 🔥 Segurança de Sistema
-- `iptables` – Firewall e regras de tráfego no Linux
-- `ufw` – Interface amigável para configuração de firewall no Ubuntu
+### Linguagem & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### Banco de Dados & Mensageria
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Testes & CI/CD
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-7A7A7A?style=for-the-badge)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-000000?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Deploy & Infraestrutura
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Monitoramento & Logs
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge)
+
+---
+
+## 🔐 Segurança em foco
+
+- Autenticação com **JWT**, OAuth2
+- **Spring Security** com RBAC
+- Prevenção de ataques: CORS, CSRF, validação de entrada
+- Práticas recomendadas da **OWASP**
+
+---
+
+## 🌐 Meu diferencial: visão de redes para além do código
+
+> Com experiência prática em redes, infraestrutura e segurança, consigo construir soluções que já nascem preparadas para escalar, performar e resistir.
+
+- Diagnóstico de falhas de rede em microsserviços
+- Projetos com **Docker Networking**, **iptables**, **VPN**, **Snort** e **pfSense**
+- Automação de infra com **Ansible** e testes realistas com **GNS3**
+
+---
+
+## 💬 Vamos conversar?
+
+Estou sempre aberto para trocar ideias, colaborar em projetos, revisar código ou simplesmente falar sobre Java, redes ou automação.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+
+---
+
+> **"Desenvolver bem é mais que escrever código — é entender o ambiente onde ele vive."**
 
 ---
 
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### 🌐 Protocolos de Rede
-- TCP/IP, OSPF, BGP, VLAN, STP
-
-### 🔧 Dispositivos
-- Cisco (IOS), Juniper (Junos), MikroTik
-
-### 🔐 Segurança
-- Cisco ASA, pfSense, IPsec, VPN SSL/TLS
-
-### 📶 Wireless
-- 802.11a/b/g/n/ac, controladoras **Aruba** e **Ubiquiti**
-
-### ⚙️ Automação
-- Ansible, Python (Paramiko, Netmiko)
-
-### 🖥️ Virtualização
-- VMware vSphere, Hyper-V, Docker, Kubernetes (network plugins)
-
-### 📊 Monitoramento
-- Zabbix, Nagios, Grafana, ELK Stack
-
-### 🔄 Backup e Recuperação
-- Shell Script, RANCID, NetBackup
-
-### 🚀 Versionamento e CI/CD
-- Git, GitLab CI
-
----
-
-## 🎯 Objetivo
-
-Aplicar meus conhecimentos em **administração de redes** para garantir a **disponibilidade**, **segurança** e **performance** das infraestruturas, contribuindo para o crescimento e a continuidade dos negócios.
-
----
-
----
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yorrison-figueiredo-060332361/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipedev3/)
----
-
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeYors&show_icons=true&theme=transparent)
-
----
-
-## 🌐 Contato
-
-📧 developersoftware479@gmail.com  
-
----
 
