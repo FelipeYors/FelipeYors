@@ -12,57 +12,57 @@ Busco crescer na área de **cybersecurity** por meio de projetos práticos, desa
 
 Atualmente estou aprofundando meus conhecimentos em:
 
-- Desenvolvimento backend com **Java 17+** e **Spring Boot**, voltado para aplicações **seguras e resilientes**
-- Implementação de **REST APIs** com foco em **controle de acesso, validação de entrada e mitigação de vulnerabilidades**
-- Boas práticas de **Clean Architecture**, **Testes Automatizados** com foco em **cenários de segurança**
-- Integração de **Spring Security**, **OAuth2**, **JWT** e estratégias de **autenticação/ autorização baseadas em RBAC**
-- Monitoramento de segurança com **Spring Boot Actuator**, **Prometheus** e **Grafana**
-- Implantação segura usando **Docker**, **GitLab CI/CD**, **Ansible** e **hardening de containers**
-- Criação de ferramentas de análise de tráfego, scanners e simuladores de ataque usando **Java** e **Python**
-- Fundamentos de **Red Team**, **networking ofensivo**, **pentest em redes**, **engenharia reversa** e **detecção de intrusão**
+- Backend com **Java 17+** e **Spring Boot**, com foco em **resiliência e segurança**
+- **REST APIs** seguras, com controle de acesso, validação de entrada e mitigação de vulnerabilidades
+- Boas práticas de **Clean Architecture** e **Testes Automatizados com foco em segurança**
+- Integração com **Spring Security**, **OAuth2**, **JWT** e **RBAC**
+- Monitoramento com **Spring Boot Actuator**, **Prometheus** e **Grafana**
+- Implantação segura com **Docker**, **GitLab CI/CD**, **Ansible** e **hardening**
+- Ferramentas ofensivas e análise de tráfego com **Java** e **Python**
+- Fundamentos de **Red Team**, **networking ofensivo**, **pentest**, **engenharia reversa** e **IDS**
 
 ---
 
-## 📦 Objetivo do Repositório
+## 📦 Objetivo deste Repositório
 
-Este repositório é meu laboratório pessoal com foco em:
+Este repositório é meu **laboratório pessoal**, onde documento minha evolução em:
 
-- **Desenvolvimento de ferramentas Red Team**
-- **Segurança ofensiva e análise de tráfego de rede**
-- **Estudo de técnicas como TCP Flood, Sniffing e Recon**
-- **Automação e scripting de segurança**
-- **Ambientes dockerizados para testes e simulações realistas**
+- Desenvolvimento de ferramentas Red Team
+- Segurança ofensiva e análise de tráfego de rede
+- Estudo e simulação de ataques como **TCP Flood**, **Sniffing** e **Recon**
+- Automação de tarefas de segurança
+- Criação de **ambientes dockerizados** para testes realistas
 
 ---
 
 ## 🔁 Projetos em andamento
 
-| Projeto                  | Descrição                                                                 | Linguagem |
-|--------------------------|--------------------------------------------------------------------------|-----------|
-| `ServidorTCP.java`       | Simula servidor TCP para análise de conexões                             | Java      |
-| `ClienteTCP.java`        | Cliente que envia dados simulando ataque/requisições                     | Java      |
-| `FloodTCP.py`            | Script para geração de tráfego malicioso                                 | Python    |
-| `Sniffer.py`             | Captura de pacotes para análise de tráfego                               | Python    |
-| `ScannerDePortas.java`   | Scanner de portas TCP simples para uso em laboratório                    | Java      |
-| `RedTeamLab`             | Ambiente dockerizado com serviços e metas para testes Red Team           | Docker    |
+| Projeto                | Descrição                                                                 | Linguagem |
+|------------------------|---------------------------------------------------------------------------|-----------|
+| `ServidorTCP.java`     | Simula um servidor TCP para análise de conexões                          | Java      |
+| `ClienteTCP.java`      | Cliente que envia dados simulando requisições ou ataques                 | Java      |
+| `FloodTCP.py`          | Script Python para geração de tráfego malicioso                          | Python    |
+| `Sniffer.py`           | Captura e análise de pacotes de rede                                     | Python    |
+| `ScannerDePortas.java` | Scanner de portas TCP simples para uso em laboratórios                   | Java      |
+| `RedTeamLab`           | Ambiente dockerizado com metas para testes ofensivos                     | Docker    |
 
 ---
 
 ## 🧰 Tecnologias que utilizo com frequência
 
-### Desenvolvimento & Segurança
+### 💻 Desenvolvimento & Segurança
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Scapy-yellow?style=for-the-badge)
 
-### Ferramentas Red Team & Infra
+### 🛠️ Red Team & Infraestrutura
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### Monitoramento & CI/CD
+### 📈 Monitoramento & DevSecOps
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -71,11 +71,11 @@ Este repositório é meu laboratório pessoal com foco em:
 
 ## 🔐 Segurança em foco
 
-- Autenticação e autorização com **JWT**, **OAuth2**
-- **Spring Security** com **RBAC** (Role-Based Access Control)
-- Prevenção de ataques: **CORS**, **CSRF**, validação de entrada
-- Criação de **ferramentas ofensivas** como scanners, sniffers e simuladores de ataque
-- Aplicação prática das recomendações da **OWASP Top 10**
+- **Autenticação e autorização** com **JWT**, **OAuth2**
+- **Spring Security** com **RBAC (Role-Based Access Control)**
+- Prevenção de ataques: **CORS**, **CSRF**, **validação de entrada**
+- Criação de ferramentas ofensivas: **scanners, sniffers, simuladores**
+- Aplicação prática do **OWASP Top 10**
 
 ---
 
@@ -85,10 +85,22 @@ Este repositório é meu laboratório pessoal com foco em:
 
 - Projetos com **Docker Networking**, **iptables**, **VPN**, **Snort** e **pfSense**
 - Automação com **Ansible**, scripting com **Bash** e **Python**
-- Laboratórios realistas com **GNS3**, containers e simulação de ataques
+- Laboratórios realistas com **GNS3**, containers e simulações de ataques
 - Diagnóstico e mitigação de falhas em ambientes distribuídos
 
 ---
+
+## 💬 Vamos conversar?
+
+Estou sempre aberto para trocas sobre **Java**, **segurança ofensiva**, **redes**, **automação** e colaboração em projetos técnicos.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+
+---
+
+> **"Não basta escrever código. É preciso entender como ele se comporta sob ataque."**
+
 
 ## 💬 Vamos conversar?
 
