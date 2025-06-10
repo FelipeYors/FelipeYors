@@ -1,10 +1,10 @@
-# ☕ Junior Java Developer - Microservices Specialist  
-**Java Developer & Microservices Architecture Enthusiast**
+# ⚛️ Desenvolvedor Full Stack com Foco em React  
+**React Specialist & Full Stack Developer | Clean Architecture & DevOps Enthusiast**
 
 Olá! Sou o **Felipe**, tenho **29 anos** e atualmente curso **Redes pela Estácio**.  
-Sou um **Desenvolvedor Java júnior** com 1 ano de experiência, especializado em **arquitetura de microservices**.  
-Sou apaixonado por **sistemas distribuídos** e pelo desenvolvimento de aplicações escaláveis com **Java** e **Spring Boot**.  
-Busco crescer na área de **microservices** por meio de projetos práticos, desafios técnicos e aprendizado contínuo.
+Sou um **desenvolvedor Full Stack JavaScript** com ênfase no **frontend com React**.  
+Sou apaixonado por **arquitetura frontend moderna**, design system, escalabilidade e integração entre microsserviços via frontend.  
+Busco crescer como especialista em **React e arquitetura de aplicações web** por meio de projetos práticos, desafios técnicos e aprendizado contínuo.
 
 ---
 
@@ -12,15 +12,15 @@ Busco crescer na área de **microservices** por meio de projetos práticos, desa
 
 Atualmente estou aprofundando meus conhecimentos em:
 
-- Backend com **Java 17+** e **Spring Boot**, com foco em **microservices e resiliência**
-- **REST APIs** e **GraphQL**, com padrões de comunicação entre serviços
-- Boas práticas de **Clean Architecture**, **Domain-Driven Design (DDD)** e **Testes Automatizados**
-- **Spring Cloud** para service discovery, circuit breakers e configuration management
-- **Message Brokers** como **Apache Kafka**, **RabbitMQ** e **Redis**
-- **Containerização** com **Docker** e orquestração com **Kubernetes**
-- **Observabilidade** com **Spring Boot Actuator**, **Prometheus**, **Grafana** e **Jaeger**
-- **CI/CD** com **GitLab**, **Jenkins** e deployment automatizado
-- Padrões de microservices: **API Gateway**, **CQRS**, **Event Sourcing** e **Saga Pattern**
+- **React 18+** com **Hooks**, **Context API**, **Next.js** e **Server Components**
+- Arquitetura frontend com **Atomic Design**, **Design System** e **Component Driven Development**
+- Padrões de organização de código: **Clean Architecture**, **DDD**, **SOLID** no Frontend
+- **Tailwind CSS**, **Styled Components** e integração com **Figma** para UI moderna e responsiva
+- Integração com APIs REST e **GraphQL** (Apollo Client)
+- **State Management** com **Zustand**, **Redux Toolkit** e **React Query**
+- **Testes automatizados** com **Jest**, **Testing Library** e **Cypress**
+- Backend com **Node.js**, **Express**, **Prisma ORM** e banco de dados **PostgreSQL**
+- **Docker** e **CI/CD** com **GitHub Actions**, deploy em **Vercel** e **Render**
 
 ---
 
@@ -28,92 +28,87 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 Este repositório é meu **laboratório pessoal**, onde documento minha evolução em:
 
-- Desenvolvimento de arquiteturas de microservices
-- Implementação de padrões de comunicação assíncrona
-- Estudo de **resilência**, **circuit breakers** e **retry patterns**
-- Automação de deploy e monitoramento
-- Criação de **ambientes dockerizados** para desenvolvimento local
+- Desenvolvimento de interfaces com alto nível de usabilidade e performance
+- Padronização de componentes e arquitetura frontend escalável
+- Comunicação assíncrona com microsserviços no backend
+- Testes automatizados, acessibilidade e boas práticas de UI/UX
+- Deploy contínuo e infraestrutura como código voltada a projetos React
 
 ---
 
 ## 🔁 Projetos em andamento
 
-| Projeto                    | Descrição                                                                 | Tecnologia        |
-|----------------------------|---------------------------------------------------------------------------|-------------------|
-| `user-service`           | Microserviço de gestão de usuários com Spring Boot                       | Java + Spring     |
-| `order-service`          | Serviço de pedidos com integração via Kafka                              | Java + Kafka      |
-| `api-gateway`            | Gateway centralizado com Spring Cloud Gateway                            | Java + Spring     |
-| `config-server`          | Servidor de configuração centralizada                                     | Spring Cloud      |
-| `service-discovery`      | Eureka Server para descoberta de serviços                                | Spring Cloud      |
-| `monitoring-stack`       | Stack completa de monitoramento (Prometheus + Grafana + Jaeger)          | Docker Compose    |
-| `e-commerce-microservices` | Aplicação completa de e-commerce em microservices                      | Java + Kubernetes |
+| Projeto                      | Descrição                                                             | Tecnologia               |
+|------------------------------|-----------------------------------------------------------------------|--------------------------|
+| `react-dashboard`            | Dashboard com filtros dinâmicos, dark mode e gráficos responsivos     | React + Chart.js + Tailwind |
+| `next-auth-template`         | Template Next.js com autenticação JWT e OAuth                         | Next.js + Prisma + Auth |
+| `ecommerce-frontend`         | Frontend de e-commerce com carrinho global e integração com API REST | React + Zustand + Styled |
+| `design-system`              | Sistema de design com Storybook para reuso de componentes             | React + Storybook       |
+| `node-api-boilerplate`       | Boilerplate para APIs RESTful com autenticação e testes               | Node.js + Express + Jest |
 
 ---
 
 ## 🧰 Tecnologias que utilizo com frequência
 
-### 💻 Desenvolvimento & Microservices
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-db7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### 🛠️ Infraestrutura & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🛠️ Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📈 Monitoramento & Observabilidade
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
----
-
-## 🏗️ Padrões de Microservices em foco
-
-- **API Gateway** para roteamento e autenticação centralizada
-- **Service Discovery** com **Eureka** e **Consul**
-- **Circuit Breaker** com **Hystrix** e **Resilience4j**
-- **Event-Driven Architecture** com **Apache Kafka**
-- **CQRS** e **Event Sourcing** para separação de responsabilidades
-- **Distributed Tracing** para rastreamento de requisições
-- **Health Checks** e **Graceful Shutdown**
+### 🔍 Testes & Observabilidade
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🌐 Meu diferencial: pensamento distribuído com base sólida em redes
+## 🧠 Princípios e padrões em foco
 
-> Com background em redes e infraestrutura, desenvolvo soluções de microservices robustas, escaláveis e resilientes, capazes de operar em ambientes distribuídos complexos.
+- **Componentização reutilizável** com Storybook
+- **State management** desacoplado por responsabilidade
+- **Server Side Rendering (SSR)** e **Static Site Generation (SSG)** com Next.js
+- **Testes em pirâmide**: unitários, integração e e2e
+- **Responsividade mobile-first** e acessibilidade (a11y)
+- **CI/CD** com build, lint, test e deploy automatizados
 
-- Projetos com **Service Mesh** usando **Istio**
-- **Load Balancing** e **Auto Scaling** com **Kubernetes**
-- **Database per Service** pattern com **PostgreSQL**, **MongoDB** e **Redis**
-- **Asynchronous Communication** com message brokers
-- **Monitoring** e **Alerting** em ambientes distribuídos
+---
+
+## 🌐 Meu diferencial: foco em escalabilidade e arquitetura frontend
+
+> Com background em redes e infraestrutura, desenvolvo aplicações frontend que se integram com arquiteturas distribuídas, priorizando performance, organização e manutenção de longo prazo.
+
+- Integração com APIs externas, microsserviços e eventos
+- Separação por domínios com DDD frontend
+- Design orientado à performance e reusabilidade
+- Fluxos robustos de CI/CD em ambientes React
 
 ---
 
 ## 📚 Estudos e Certificações
 
-- **Spring Professional Certification** (em andamento)
-- **Kubernetes Application Developer (CKAD)** (planejado)
-- **AWS Solutions Architect** (planejado)
-- Cursos de **Microservices Patterns** e **Domain-Driven Design**
+- **React Avançado** – Rocketseat e Alura
+- **Next.js e arquitetura SSR** – Vercel Academy
+- **Arquitetura Frontend Escalável** – Origamid & Willian Justen
+- **DevOps para Frontend** – em andamento
 
 ---
 
 ## 💬 Vamos conversar?
 
-Estou sempre aberto para trocas sobre **Java**, **microservices**, **arquitetura distribuída**, **DevOps** e colaboração em projetos técnicos.
+Estou sempre aberto para trocar ideias sobre **React**, **arquitetura frontend**, **design system**, **DevOps para Frontend** e colaboração em projetos modernos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
 
 ---
 
-> **"Não basta escrever código. É preciso projetar sistemas que escalam e resistem a falhas."**
-```
+> **"Frontend também é arquitetura. E React é só o começo."**
 
