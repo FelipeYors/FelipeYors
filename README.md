@@ -1,10 +1,12 @@
-# 🐢 Desenvolvedor Backend Júnior com Foco em Node.js  
-**Node.js Developer | Clean Architecture & DevOps Enthusiast**
+# ☕ Desenvolvedor Backend Júnior com Foco em Java (e Node.js como apoio)  
+**Java Developer | Arquitetura Moderna, Microsserviços & DevOps Enthusiast**
 
-Olá! Sou o **Felipe**, tenho **29 anos** e atualmente curso **Egenharia de Software pela Estácio**.  
-Sou um **desenvolvedor Backend JavaScript** com foco em aplicações escaláveis com **Node.js**.  
-Sou apaixonado por **arquitetura backend moderna**, microsserviços, integração entre sistemas e automação de processos.  
-Busco crescer como especialista em **Node.js e arquitetura distribuída** por meio de projetos práticos, desafios técnicos e aprendizado contínuo.
+Olá! Sou o **Felipe**, tenho **29 anos** e atualmente curso **Engenharia de Software pela Estácio**.  
+Sou um **desenvolvedor backend** com foco principal em **Java (Spring Boot)**, construindo aplicações robustas, escaláveis e seguras.  
+Tenho também experiência com **Node.js**, o que me permite atuar de forma flexível em diferentes stacks e projetos.  
+Sou apaixonado por **arquitetura moderna**, microsserviços, integração entre sistemas e automação de processos com DevOps.
+
+Busco crescer como especialista em **Java backend e arquitetura distribuída**, aplicando boas práticas, padrões consolidados e ferramentas modernas de desenvolvimento.
 
 ---
 
@@ -12,47 +14,55 @@ Busco crescer como especialista em **Node.js e arquitetura distribuída** por me
 
 Atualmente estou aprofundando meus conhecimentos em:
 
-- **Node.js** com **Express**, **Fastify** e **Prisma ORM**
-- Criação e consumo de **REST APIs** e **GraphQL**
-- Padrões de arquitetura como **Clean Architecture**, **DDD** e princípios **SOLID**
-- **Autenticação e autorização** com JWT, OAuth e cookies
-- **Testes automatizados** com **Jest**, **Supertest** e **Vitest**
-- Banco de dados relacionais e não relacionais (**PostgreSQL**, **MongoDB**, **Redis**)
-- **Mensageria** com **RabbitMQ** e **Kafka**
-- **Docker**, versionamento de ambientes e **CI/CD** com **GitHub Actions**
-- Monitoramento e observabilidade com **Prometheus** e **Grafana**
+### 💻 Java (principal stack)
+- **Java 17+ com Spring Boot**, JPA e Hibernate
+- **REST APIs** e **GraphQL** com Spring Web e Spring GraphQL
+- **Padrões de arquitetura** como **Clean Architecture**, **DDD** e princípios **SOLID**
+- **Testes automatizados** com JUnit, Mockito e Testcontainers
+- **Mensageria** com **Kafka** e **RabbitMQ**
+- **Segurança** com Spring Security, JWT, OAuth2
+- **Docker**, CI/CD com **GitHub Actions**, e deploy em ambientes cloud
+- Monitoramento com **Prometheus** e **Grafana**
+
+### 🟢 Node.js (stack complementar)
+- APIs com **Express** e **Fastify**
+- Integração com **Prisma ORM**, PostgreSQL, MongoDB e Redis
+- Testes com **Jest**, **Vitest** e **Supertest**
+- Comunicação assíncrona com **Kafka** e filas
+- Projetos pequenos, MVPs, e experimentação de conceitos de arquitetura
 
 ---
 
 ## 📦 Objetivo deste Repositório
 
-Este repositório é meu **laboratório pessoal**, onde documento minha evolução em:
+Este repositório é meu **laboratório pessoal**, onde documento minha evolução prática como desenvolvedor backend, com foco em:
 
-- Estruturação de projetos Node.js com foco em escalabilidade
-- Padrões para APIs REST e GraphQL seguras e performáticas
-- Microsserviços com comunicação assíncrona via filas e eventos
-- Testes automatizados e validações robustas
-- Automatização de deploys com containers e pipelines de integração contínua
+- Estruturação de projetos Java e Node.js com boas práticas de arquitetura
+- APIs seguras e performáticas com REST e GraphQL
+- Microsserviços desacoplados com mensageria e testes robustos
+- Integração contínua com Docker e GitHub Actions
+- Observabilidade e monitoramento para ambientes distribuídos
 
 ---
 
 ## 🔁 Projetos em andamento
 
-| Projeto                      | Descrição                                                              | Tecnologia               |
-|------------------------------|------------------------------------------------------------------------|--------------------------|
-| `auth-api`                   | API de autenticação com JWT, roles e refresh tokens                   | Node.js + Express + Prisma |
-| `order-service`              | Serviço de pedidos com mensageria assíncrona via Kafka                | Node.js + Kafka + MongoDB |
-| `task-manager-api`           | API REST para gerenciar tarefas com validação e testes                | Fastify + PostgreSQL     |
-| `graphql-api-template`       | Template base com Apollo Server e integração com Prisma               | Node.js + GraphQL        |
-| `devops-pipeline-lab`        | Pipeline CI/CD com GitHub Actions e Docker                           | Node.js + GitHub Actions |
+| Projeto                      | Descrição                                                              | Tecnologia                    |
+|------------------------------|------------------------------------------------------------------------|-------------------------------|
+| `user-service`               | Microsserviço de usuários com autenticação e roles                     | Java + Spring Boot + JWT      |
+| `order-service`              | Serviço de pedidos com mensageria assíncrona via Kafka                | Java + Spring + Kafka         |
+| `task-manager-api`           | API REST com validações, testes e arquitetura limpa                   | Fastify + PostgreSQL          |
+| `graphql-api-template`       | Base para APIs com Apollo Server e Prisma                             | Node.js + GraphQL             |
+| `devops-pipeline-lab`        | Pipeline CI/CD com GitHub Actions e Docker                            | Java + GitHub Actions         |
 
 ---
 
 ## 🧰 Tecnologias que utilizo com frequência
 
 ### 🖥️ Backend
+![Java](https://img.shields.io/badge/Java-B8211E?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-B8211E?style=for-the-badge&logo=Javadotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -64,6 +74,7 @@ Este repositório é meu **laboratório pessoal**, onde documento minha evoluç�
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### 🔍 Testes, DevOps & Monitoramento
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -74,12 +85,12 @@ Este repositório é meu **laboratório pessoal**, onde documento minha evoluç�
 
 ## 🧠 Princípios e padrões em foco
 
-- **Arquitetura limpa** com separação por camadas e injeção de dependência
-- **Validação de dados** com Zod, Joi e middlewares reutilizáveis
-- **Testes automatizados** com cobertura desde o unitário até o E2E
-- **Mensageria e comunicação assíncrona** para sistemas desacoplados
-- **CI/CD** com pipelines automatizados para build, lint, testes e deploy
-- **Monitoramento** com logs estruturados, métricas e alertas
+- **Arquitetura limpa e modular**, com separação por camadas
+- **Validação de dados** com Bean Validation (Java) e Zod (Node)
+- **Testes completos** (unitários, integração e E2E)
+- **Mensageria e filas** para sistemas assíncronos e escaláveis
+- **Pipelines de CI/CD** para integração contínua com testes e deploys
+- **Logs estruturados e monitoramento** com Prometheus e Grafana
 
 ---
 
@@ -88,25 +99,26 @@ Este repositório é meu **laboratório pessoal**, onde documento minha evoluç�
 > Com background em redes e infraestrutura, desenvolvo soluções backend resilientes, seguras e preparadas para ambientes distribuídos.
 
 - Configuração de ambientes com **Docker Compose**
-- Deploy em plataformas como **Render**, **Railway** e **DigitalOcean**
-- Práticas de segurança: **Rate Limiting**, **CORS**, **input sanitization**
-- Scripts automatizados para testes locais e staging
+- Deploy em **Render**, **Railway** e **DigitalOcean**
+- Práticas de segurança: **CORS**, **Rate Limiting**, **input sanitization**
+- Scripts automatizados para testes locais e ambientes de staging
 
 ---
 
 ## 📚 Estudos e Certificações
 
-- **Node.js Avançado** – Alura e Rocketseat
-- **API REST com Express & TypeScript** – em andamento
-- **Docker e Microsserviços com Node.js** – Balta.io
-- **Mensageria com Kafka e RabbitMQ** – planejado
-- **DevOps para backend Node.js** – em andamento
+- **Java com Spring Boot Avançado** – em andamento (Alura / Udemy)
+- **APIs REST com Spring Security e JWT** – finalizado
+- **Node.js Avançado com Express e TypeScript** – Rocketseat
+- **Kafka e RabbitMQ** – em estudo
+- **DevOps para Backend** – GitHub Actions + Docker (em progresso)
 
 ---
 
 ## 💬 Vamos conversar?
 
-Estou sempre aberto para trocar ideias sobre **Node.js**, **arquitetura backend**, **DevOps**, **mensageria** e colaboração em projetos escaláveis.
+Estou sempre aberto para trocar ideias sobre **Java**, **arquitetura backend**, **mensageria**, **DevOps** e **Node.js**.  
+Contribuições, feedbacks e colaborações são muito bem-vindos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
@@ -114,3 +126,4 @@ Estou sempre aberto para trocar ideias sobre **Node.js**, **arquitetura backend*
 ---
 
 > **"Backend moderno é mais que API: é arquitetura, automação e visão sistêmica."**
+
