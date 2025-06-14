@@ -1,4 +1,4 @@
-# ☕ Desenvolvedor Backend Júnior com Foco em Java (e Node.js como apoio)  
+# ☕ Desenvolvedor Backend Júnior com Foco em Java e Node.js como apoio  
 **Java Developer | Arquitetura Moderna, Microsserviços & DevOps Enthusiast**
 
 Olá! Sou o **Felipe**, tenho **29 anos** e atualmente curso **Engenharia de Software pela Estácio**.  
