@@ -1,124 +1,78 @@
-# ☕ Desenvolvedor Backend Júnior com Foco em Java e Node.js como apoio  
-**Java Developer | Arquitetura Moderna, Microsserviços & DevOps Enthusiast**
+# 👨‍💻 Felipe – Especialista em Segurança Digital e Crimes Cibernéticos  
+**Assistente Técnico | Forense Digital, OSINT e Provas Jurídicas**
 
-Olá! Sou o **Felipe**, tenho **29 anos** e atualmente curso **Engenharia de Software pela Estácio**.  
-Sou um **desenvolvedor backend** com foco principal em **Java (Spring Boot)**, construindo aplicações robustas, escaláveis e seguras.  
-Tenho também experiência com **Node.js**, o que me permite atuar de forma flexível em diferentes stacks e projetos.  
-Sou apaixonado por **arquitetura moderna**, microsserviços, integração entre sistemas e automação de processos com DevOps.
+Bem-vindo! Sou o **Felipe**, desenvolvedor e especialista em **Segurança Digital**, com atuação prática como **assistente técnico judicial** em processos que envolvem crimes cibernéticos e provas digitais.
 
-Busco crescer como especialista em **Java backend e arquitetura distribuída**, aplicando boas práticas, padrões consolidados e ferramentas modernas de desenvolvimento.
+Atuo com **análise forense de dispositivos**, **validação de evidências**, **investigação virtual com OSINT** e **produção de laudos técnicos** claros, objetivos e juridicamente embasados.
 
 ---
 
-## 🚀 Em constante evolução
+## 🧠 Áreas de Atuação
 
-Atualmente estou aprofundando meus conhecimentos em:
-
-### 💻 Java (principal stack)
-- **Java 17+ com Spring Boot**, JPA e Hibernate
-- **REST APIs** e **GraphQL** com Spring Web e Spring GraphQL
-- **Padrões de arquitetura** como **Clean Architecture**, **DDD** e princípios **SOLID**
-- **Testes automatizados** com JUnit, Mockito e Testcontainers
-- **Mensageria** com **Kafka** e **RabbitMQ**
-- **Segurança** com Spring Security, JWT, OAuth2
-- **Docker**, CI/CD com **GitHub Actions**, e deploy em ambientes cloud
-- Monitoramento com **Prometheus** e **Grafana**
-
-### 🟢 Node.js (stack complementar)
-- APIs com **Express** e **Fastify**
-- Integração com **Prisma ORM**, PostgreSQL, MongoDB e Redis
-- Testes com **Jest**, **Vitest** e **Supertest**
-- Comunicação assíncrona com **Kafka** e filas
-- Projetos pequenos, MVPs, e experimentação de conceitos de arquitetura
+- Assistência técnica em processos judiciais (cível e penal)
+- Análise de dispositivos: computadores, celulares e mídias
+- Validação de provas digitais (prints, metadados, redes sociais)
+- Investigação de crimes cibernéticos e rastreamento de autoria
+- Produção de laudos técnicos e pareceres jurídicos
+- Coleta de evidências com preservação forense (hash, logs, trilhas)
 
 ---
 
-## 📦 Objetivo deste Repositório
+## 🛠️ Ferramentas & Conhecimentos
 
-Este repositório é meu **laboratório pessoal**, onde documento minha evolução prática como desenvolvedor backend, com foco em:
+### 🔍 Forense Digital
+- Autopsy, FTK Imager, X-Ways, Magnet AXIOM  
+- Cellebrite UFED, ADB (Android Debug Bridge)  
+- Criptografia, esteganografia e recuperação de dados  
+- Análise hex, logs e timelines forenses  
+- Preservação de evidências (MD5/SHA256)
 
-- Estruturação de projetos Java e Node.js com boas práticas de arquitetura
-- APIs seguras e performáticas com REST e GraphQL
-- Microsserviços desacoplados com mensageria e testes robustos
-- Integração contínua com Docker e GitHub Actions
-- Observabilidade e monitoramento para ambientes distribuídos
+### 🌐 OSINT & Inteligência Cibernética
+- Maltego, SpiderFoot, Google Dorks  
+- Análise de redes sociais e ambientes anônimos  
+- Rastreamento de IPs, domínios, e footprinting  
+- Investigação de perfis falsos e exposições públicas
 
----
-
-## 🔁 Projetos em andamento
-
-| Projeto                      | Descrição                                                              | Tecnologia                    |
-|------------------------------|------------------------------------------------------------------------|-------------------------------|
-| `user-service`               | Microsserviço de usuários com autenticação e roles                     | Java + Spring Boot + JWT      |
-| `order-service`              | Serviço de pedidos com mensageria assíncrona via Kafka                | Java + Spring + Kafka         |
-| `task-manager-api`           | API REST com validações, testes e arquitetura limpa                   | Fastify + PostgreSQL          |
-| `graphql-api-template`       | Base para APIs com Apollo Server e Prisma                             | Node.js + GraphQL             |
-| `devops-pipeline-lab`        | Pipeline CI/CD com GitHub Actions e Docker                            | Java + GitHub Actions         |
-
----
-
-## 🧰 Tecnologias que utilizo com frequência
-
-### 🖥️ Backend
-![Java](https://img.shields.io/badge/Java-B8211E?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🛠️ Banco de Dados & Mensageria
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-### 🔍 Testes, DevOps & Monitoramento
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+### ⚙️ Infraestrutura & Segurança
+- Sistemas Linux (Kali, Parrot), scripts de automação  
+- Análise de logs e tráfego de rede (Wireshark, Tcpdump)  
+- Ambientes virtualizados (VirtualBox, Docker)  
+- Práticas de segurança: CORS, Rate Limit, Input Sanitization
 
 ---
 
-## 🧠 Princípios e padrões em foco
+## 🎓 Formação & Certificações
 
-- **Arquitetura limpa e modular**, com separação por camadas
-- **Validação de dados** com Bean Validation (Java) e Zod (Node)
-- **Testes completos** (unitários, integração e E2E)
-- **Mensageria e filas** para sistemas assíncronos e escaláveis
-- **Pipelines de CI/CD** para integração contínua com testes e deploys
-- **Logs estruturados e monitoramento** com Prometheus e Grafana
-
----
-
-## 🌐 Meu diferencial: backend com visão de infraestrutura
-
-> Com background em redes e infraestrutura, desenvolvo soluções backend resilientes, seguras e preparadas para ambientes distribuídos.
-
-- Configuração de ambientes com **Docker Compose**
-- Deploy em **Render**, **Railway** e **DigitalOcean**
-- Práticas de segurança: **CORS**, **Rate Limiting**, **input sanitization**
-- Scripts automatizados para testes locais e ambientes de staging
+- Engenharia de Software – Estácio (cursando)  
+- Introdução à Perícia Digital – Academia Brasileira de Peritos  
+- OSINT & Investigação Digital – Clavis  
+- Forense Computacional e Móvel – HackerSec  
+- DevSecOps e Segurança de Aplicações Web – em andamento  
 
 ---
 
-## 📚 Estudos e Certificações
+## ⚖️ Experiência Profissional
 
-- **Java com Spring Boot Avançado** – em andamento (Alura / Udemy)
-- **APIs REST com Spring Security e JWT** – finalizado
-- **Node.js Avançado com Express e TypeScript** – Rocketseat
-- **Kafka e RabbitMQ** – em estudo
-- **DevOps para Backend** – GitHub Actions + Docker (em progresso)
+Atuo como **assistente técnico** em casos jurídicos que envolvem:
+
+- Calúnia e difamação online  
+- Invasão de dispositivos e violações de privacidade  
+- Golpes digitais e fraudes eletrônicas  
+- Violação da LGPD  
+- Preservação e análise técnica de provas
 
 ---
 
-## 💬 Vamos conversar?
+## 📫 Contato
 
-Estou sempre aberto para trocar ideias sobre **Java**, **arquitetura backend**, **mensageria**, **DevOps** e **Node.js**.  
-Contribuições, feedbacks e colaborações são muito bem-vindos!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)  
+📩 **Email profissional:** seuproemail@dominio.com
+
+---
+
+> 💬 *"No mundo digital, cada bit conta — e a verdade técnica pode decidir um processo."*
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
